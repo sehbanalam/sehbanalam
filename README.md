@@ -1,20 +1,24 @@
-# Hi there, I'm Sehban Alam 👋
+# Hi, I'm Sehban Alam 👋
+**Full-Stack & Cloud Engineer | 10+ Years Experience**
 
-I’m a **Backend & Cloud Engineer** specializing in building highly scalable, resilient distributed systems. When I'm not designing microservices or optimizing cloud infrastructure, you can find me tweaking mixes in Studio One or playing guitar.
-
----
-
-### 🚀 What I Do
-*   **Distributed Systems & Microservices:** Crafting high-performance backends that scale gracefully.
-*   **Cloud Architecture:** Designing and deploying secure, cost-effective infrastructure on AWS.
-*   **Audio Engineering & Music:** Exploring the intersection of software, sound production, and guitar gear.
+I build high-scale, distributed web architectures, serverless microservices, and performance-tuned cloud applications. My core expertise spans the JavaScript/TypeScript ecosystem across Node.js, Next.js, and Angular, combined with deep cloud infrastructure design on AWS and Google Cloud.
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Summary of Expertise
+*   **Scale & Reliability:** Architected cloud-native systems supporting 100K+ active users while maintaining 99.99% uptime.
+*   **Data Architecture:** Optimized PostgreSQL environments for complex, high-volume datasets, delivering 60% query performance improvements.
+*   **Infrastructure as Code:** Built production-grade serverless deployments using AWS SAM and CloudFormation templates.
+*   **Performance Optimization:** Scaled Next.js platforms using advanced SSR and caching strategies, alongside achieving Top 10% Google Lighthouse scores on large Angular apps.
+
+---
+
+### 🛠️ Core Technical Stack
 
 ```asdf
-  Backend & APIs  │ Node.js • NestJS • Express • TypeScript
-  Frontend        │ Next.js • React • TailwindCSS
-  Cloud & DevOps  │ AWS (EC2, Lambda, ECS, RDS, S3) • Docker • CI/CD
-  Tools & Hobbies │ Git • Studio One • Audio Processing & DSP
+  Backend & APIs     │ Node.js • Express.js • REST APIs • WebSocket • Java
+  Frontend Frameworks│ Angular (Signals/RxJS/NgRx) • Next.js • React • TypeScript
+  Cloud & Serverless │ AWS (Lambda, CloudFront, CloudFormation, SAM, S3) • Firebase • Cloudflare Workers
+  Databases          │ PostgreSQL • MongoDB • Firestore • MySQL
+  DevOps & Testing   │ GitHub Actions (CI/CD) • GitFlow • Cypress • Jasmine • Karma
+  Architectures      │ Distributed Microservices • Multi-tenant Isolation • Event-driven • ABAC/RBAC
