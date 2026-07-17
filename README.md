@@ -14,7 +14,7 @@ Building scalable software, cloud-native systems and developer experiences that 
 <img src="https://img.shields.io/github/followers/sehbanalam?label=Followers&style=for-the-badge&color=181717"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=sehbanalam&style=for-the-badge&color=blue"/>
 
 </p>
 
