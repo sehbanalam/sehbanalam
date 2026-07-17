@@ -10,8 +10,8 @@ Building scalable software, cloud-native systems and developer experiences that 
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=181717"/>
+<a href="https://github.com/sehbanalam">
+<img src="https://img.shields.io/github/followers/sehbanalam?label=Followers&style=for-the-badge&color=181717"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
