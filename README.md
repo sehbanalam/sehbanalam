@@ -1,78 +1,179 @@
-<h1 align="center">Hi 👋, I'm Sehban Alam</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • Full Stack Developer • Cloud Architect
-</h3>
+# 👋 Hey, I'm Sehban Alam
 
-<p align="center">
-Building scalable applications, microservices, cloud-native systems and developer tools.
+### Software Engineer • Full Stack Developer • Cloud Architect • Open Source Contributor
+
+<p>
+Building scalable software, cloud-native systems and developer experiences that people love to use.
 </p>
 
+<p>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=181717"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=10%2B+Years+of+Building+Software;Full+Stack+Engineer;Cloud+Native+Developer;Angular+%7C+React+%7C+Next.js;Node.js+%7C+AWS+%7C+Microservices;Open+Source+Contributor;Always+Learning+Something+New"/>
+
+</div>
+
 ---
 
-## 👨‍💻 About Me
+# 👨🏻‍💻 About Me
 
-- 💼 Software Engineer with **10+ years** of experience
-- 🌍 Based in **New Delhi, India**
-- 🚀 Building scalable web applications using **Angular, React, Next.js, Node.js**
-- ☁️ Experienced with **AWS Serverless**, Cloud Architecture & Microservices
-- 🧠 Passionate about Software Architecture, Clean Code and System Design
-- ✍️ Technical writer on **Medium**
-- 📦 Open Source contributor with published npm packages
-- 🤖 Exploring AI integrations using OpenAI APIs
+```typescript
+const sehban = {
+
+    role: "Software Engineer",
+
+    location: "New Delhi, India 🇮🇳",
+
+    experience: "10+ Years",
+
+    currentFocus: [
+        "Microservices",
+        "Cloud Native Applications",
+        "AI Integrations",
+        "High Performance Frontends"
+    ],
+
+    architecture: [
+        "Serverless",
+        "Event Driven",
+        "Distributed Systems",
+        "Multi Tenant SaaS"
+    ],
+
+    philosophy: [
+        "Clean Code",
+        "SOLID",
+        "DX Matters",
+        "Performance First"
+    ],
+
+    funFact:
+        "I enjoy turning complex business problems into elegant software."
+}
+```
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
+
+<div align="center">
 
 ### Frontend
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,typescript,javascript,html,css,sass"/>
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,java"/>
 
 ### Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,docker"/>
 
-### Databases
+### Database
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
 
-### DevOps & Testing
+### DevOps & Tools
 
-Git • GitHub Actions • CI/CD • Cypress • Jasmine • Karma • Docker • Sentry
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode"/>
+
+</div>
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 What I Enjoy Building
 
-- Enterprise Transportation Management System (TMS)
-- Microservices Architecture
-- Multi-tenant SaaS Applications
-- Next.js Performance
-- RBAC / Authentication Systems
-- AI-powered Developer Tools
+<table>
+
+<tr>
+
+<td width="50%">
+
+### ☁️ Cloud Applications
+
+- AWS Lambda
+- API Gateway
+- CloudFormation
+- Serverless APIs
+- Event Driven Systems
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend Systems
+
+- Node.js
+- Express
+- Authentication
+- REST APIs
+- Microservices
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 💻 Frontend
+
+- Angular
+- Next.js
+- React
+- Performance Optimization
+- SEO
+
+</td>
+
+<td>
+
+### 🧠 Engineering
+
+- System Design
+- Architecture
+- Code Reviews
+- CI/CD
+- Technical Mentoring
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 Highlights
+
+- 🚀 10+ years building production software
+- ☁️ AWS Cloud & Serverless Architecture
+- 📈 Improved PostgreSQL performance by **60%**
+- 👥 Built software used by **100K+ users**
+- ⚡ Reduced deployments from weekly to daily using GitHub Actions
+- 🧪 Strong believer in Unit Testing & E2E Testing
+- 📦 Published Open Source npm packages
+- 🤖 Built AI-powered translation pipelines using OpenAI APIs
+- ✍️ Technical writer who enjoys sharing knowledge
 
 ---
 
 # 📦 Open Source
 
-### ngx-seo-helper
+## 🔹 ngx-seo-helper
 
-Angular SEO library for
+Angular SEO toolkit supporting:
 
 - Meta Tags
 - Open Graph
@@ -82,70 +183,115 @@ Angular SEO library for
 
 ---
 
-### ngx-countdown-clock
+## 🔹 ngx-countdown-clock
 
-Highly customizable Angular Countdown Timer
+Angular countdown component featuring:
 
-- Progress Bar
+- Progress Indicators
 - Callback Events
-- E-commerce
-- Quiz Platforms
+- Custom Templates
+- Smooth Animations
 
 ---
 
-# 📝 Latest Interests
+# 🌱 Currently Exploring
 
-- AI Engineering
-- System Design
-- Distributed Systems
-- Cloud Native Applications
-- Event Driven Architecture
-- Software Architecture
-- Performance Optimization
-
----
-
-# 📈 Experience Highlights
-
-✅ Built applications serving **100K+ users**
-
-✅ 99.99% uptime
-
-✅ AWS Serverless Architectures
-
-✅ Microservices
-
-✅ PostgreSQL Performance Optimization
-
-✅ Angular Performance Optimization
-
-✅ Technical Leadership
-
-✅ Mentoring Engineers
-
-✅ CI/CD Automation
+```text
+✓ AI Engineering
+✓ Agentic Workflows
+✓ LLM Applications
+✓ Software Architecture
+✓ Distributed Systems
+✓ High Performance Web Applications
+✓ Developer Experience
+```
 
 ---
 
-# 🌱 Currently Learning
+# 📊 GitHub Analytics
 
-- Advanced System Design
-- AI Agents
-- LLM Applications
-- Kubernetes
-- Event Streaming
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🤝 Connect With Me
+# 📈 Engineering Mindset
 
-- 💼 LinkedIn
-- ✍️ Medium
-- 📦 npm
-- 💻 GitHub
+```mermaid
+mindmap
+  root((Software))
+    Architecture
+      Microservices
+      Event Driven
+      Serverless
+      Scalability
+    Frontend
+      Angular
+      React
+      Next.js
+    Backend
+      Node.js
+      Java
+      APIs
+    Cloud
+      AWS
+      Cloudflare
+      CI/CD
+    AI
+      OpenAI
+      Automation
+    Open Source
+      npm
+      Community
+```
 
 ---
 
-<p align="center">
-<i>"First make it work. Then make it right. Then make it fast."</i>
-</p>
+# 💬 Favorite Quote
+
+> *"Any fool can write code that a computer can understand. Good engineers write code that humans can understand."*
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
+</a>
+
+<a href="">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm"/>
+</a>
+
+<a href="">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building software that is scalable, maintainable, and enjoyable to work on."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:2563eb"/>
+
+</div>
