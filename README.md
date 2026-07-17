@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Sehban Alam 👋
 
-<!--
-**sehbanalam/sehbanalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Backend & Cloud Engineer** specializing in building highly scalable, resilient distributed systems. When I'm not designing microservices or optimizing cloud infrastructure, you can find me tweaking mixes in Studio One or playing guitar.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+*   **Distributed Systems & Microservices:** Crafting high-performance backends that scale gracefully.
+*   **Cloud Architecture:** Designing and deploying secure, cost-effective infrastructure on AWS.
+*   **Audio Engineering & Music:** Exploring the intersection of software, sound production, and guitar gear.
+
+---
+
+### 🛠️ Tech Stack
+
+```asdf
+  Backend & APIs  │ Node.js • NestJS • Express • TypeScript
+  Frontend        │ Next.js • React • TailwindCSS
+  Cloud & DevOps  │ AWS (EC2, Lambda, ECS, RDS, S3) • Docker • CI/CD
+  Tools & Hobbies │ Git • Studio One • Audio Processing & DSP
